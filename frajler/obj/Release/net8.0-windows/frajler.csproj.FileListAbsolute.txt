@@ -1,0 +1,16 @@
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\frajler.exe
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\frajler.deps.json
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\frajler.runtimeconfig.json
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\frajler.dll
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\frajler.pdb
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.Form1.resources
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.csproj.GenerateResource.cache
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.AssemblyInfoInputs.cache
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.AssemblyInfo.cs
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.csproj.CoreCompileInputs.cache
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.dll
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\refint\frajler.dll
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.pdb
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\frajler.genruntimeconfig.cache
+C:\Users\stefans\source\repos\frajler\frajler\obj\Release\net8.0-windows\ref\frajler.dll

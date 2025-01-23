@@ -1,0 +1,5 @@
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\publish\frajler.exe
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\publish\frajler.dll
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\publish\frajler.deps.json
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\publish\frajler.runtimeconfig.json
+C:\Users\stefans\source\repos\frajler\frajler\bin\Release\net8.0-windows\publish\frajler.pdb
